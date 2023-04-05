@@ -1,0 +1,15 @@
+# IDEs and editors
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# mandery-core
+/mandery-core/mandery
+
+# mandery-web
+/mandery-web/node_modules/
+/mandery-web/.angular
+/mandery-web/dist
